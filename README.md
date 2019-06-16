@@ -1,6 +1,8 @@
 # Maker Station
 Powering your maker prototypes + some extra fun with HUE
 
+![Maker Station](https://i.imgur.com/e2wO553.jpg)
+
 ## Setup
 
 ### Setup python and i2c on the pi

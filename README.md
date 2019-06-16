@@ -1,5 +1,7 @@
-# HuePi
-Integrating Hue, a Pi, and some pushbutton switches
+# Maker Station
+Powering your maker prototypes + some extra fun with HUE
+
+![Maker Station](https://i.imgur.com/e2wO553.jpg)
 
 ## Setup
 
@@ -18,7 +20,9 @@ Install the phue lib
 		sudo pip3 install phue
 
 Set an environ var of HUE_BRIDGE_IP to the IP of your hue bridge
+
 Set an environ var of HUE_BRIDGE_USERNAME to an authorized username from your Hue. 
+
 To get a username from your hue: https://www.sitebase.be/generate-phillips-hue-api-token/
 
 ### Setup megaio
